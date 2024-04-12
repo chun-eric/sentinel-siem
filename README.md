@@ -1,5 +1,5 @@
 
-<h1>The Blue Team Red Team Microsoft Sentinel SIEM lab. From Deployment, Configuration to Compromise, Threat Detection and Remediation.</h1>
+<h1>Microsoft Sentinel SIEM lab in Azure. From Deployment, Configuration to Compromise, Threat Detection and Remediation.</h1>
 
 
 <h2>Description</h2>
